@@ -129,6 +129,9 @@ pip-selfcheck.json
 !.vscode/launch.json
 !.vscode/extensions.json
 
+### PyCharm ###
+.idea/*
+
 ### Custom ###
 envar.bat
 app/static/generated
