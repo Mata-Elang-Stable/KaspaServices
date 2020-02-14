@@ -8,7 +8,6 @@ enum34==1.1.6
 Flask==1.0.2
 Flask-HTTPAuth==3.2.4
 futures==3.1.1
-gunicorn==19.9.0
 isort==4.3.4
 itsdangerous==0.24
 Jinja2==2.10
@@ -18,7 +17,6 @@ mccabe==0.6.1
 passlib==1.7.1
 setuptools
 pylint==1.9.2
-python-dotenv==0.9.1
 singledispatch==3.4.0.3
 six==1.11.0
 waitress==1.1.0
