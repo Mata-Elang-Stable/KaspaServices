@@ -1,4 +1,4 @@
-FROM python:3-alpine
+FROM python:3.9-alpine
 
 COPY . /kaspaservices/
 WORKDIR /kaspaservices/
