@@ -280,7 +280,7 @@ def createuser():
         time_joined=user['time_joined']
     )
 
-    return jsonify({'username': user['username']}), 201
+    return jsonify({'username': user['username']}), 200
 
 @app.route('/api/statistic/v1.0/rawdata', methods=['POST'])
 @auth.login_required
