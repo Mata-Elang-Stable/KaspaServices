@@ -20,5 +20,5 @@ pylint==2.12.2
 singledispatch==3.4.0.3
 six==1.11.0
 waitress==1.4.3
-Werkzeug==0.16.1
+Werkzeug==2.2.3
 wrapt==1.11
